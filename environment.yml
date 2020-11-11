@@ -6,4 +6,5 @@ dependencies:
 - scipy
 - matplotlib
 - seaborn
-- itertools
+- pip:
+    - itertools
