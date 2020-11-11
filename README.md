@@ -1,4 +1,5 @@
-## Model of Meiotic Recombination :scissors:
+## Model of Meiotic Recombination 
+:scissors:
 
 __[Check out model here!](https://shivchitinous.github.io/recombinator/recombination.html)__
 
