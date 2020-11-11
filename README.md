@@ -1,4 +1,4 @@
-# recombinator
+# recombinator :scissors:
 ### [<sup>GitHub</sup>](https://github.com/shivChitinous/recombinator)
 ## Model of Meiotic Recombination
 
