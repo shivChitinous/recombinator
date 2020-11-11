@@ -1,5 +1,5 @@
 # recombinator
-#### [<sup>GitHub</sup>](https://github.com/shivChitinous/recombinator)
+### [<sup>GitHub</sup>](https://github.com/shivChitinous/recombinator)
 ## Model of Meiotic Recombination
 
 __[Check out model here!](https://shivchitinous.github.io/pandem-onion/SIRS_Model_of_Epidemic_Spread.html)__
